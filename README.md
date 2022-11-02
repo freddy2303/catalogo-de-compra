@@ -1,6 +1,7 @@
 # catalogo-de-compra
 
-Proyecto se la semana 11 
+avances del proyecto
+
 
 ### tecnocologia
 
